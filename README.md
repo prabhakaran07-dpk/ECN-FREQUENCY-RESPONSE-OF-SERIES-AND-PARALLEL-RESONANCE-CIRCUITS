@@ -38,10 +38,10 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 ## **Model graph:**
 
 
-<img width="431" height="416" alt="image" src="https://github.com/user-attachments/assets/6e7018aa-adfd-4277-b262-fe7a3418b87a" />
+<img width="959" height="426" alt="image" src="https://github.com/user-attachments/assets/cbc901d2-f31b-44a1-afae-7f830efe8853" />
 
+<img width="960" height="415" alt="image" src="https://github.com/user-attachments/assets/8576617d-54e0-4aa8-87db-f28c996b21b0" />
 
-<img width="316" height="305" alt="image" src="https://github.com/user-attachments/assets/06300ef0-564b-4647-90a3-ea21cde2495a" />
 
 
 ## **PROCEDURE:**
