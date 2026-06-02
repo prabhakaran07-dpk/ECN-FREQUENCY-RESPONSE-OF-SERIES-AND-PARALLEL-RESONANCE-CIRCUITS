@@ -7,6 +7,7 @@ To study the behavior of series and parallel RLC circuits at resonance and to de
 
 **APPARATUS REQUIRED:**
 
+
 <img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/2716f700-2960-4ba2-9e8f-7fa1cebda461" />
 
 
